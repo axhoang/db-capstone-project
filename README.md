@@ -8,26 +8,26 @@ Hey there! Welcome to the capstone project for the Meta Database Engineer Profes
 
 📚 Table of Contents
 
-📊 Database Setup
-🐍 Python Code
-📈 Data Visualization
-📝 Documentation
-🤝 Peer Review and Grading
-📊 Database Setup
-📓 Tables and Relations
+1.📊 Database Setup
+2.🐍 Python Code
+3.📈 Data Visualization
+4.📝 Documentation
+5.🤝 Peer Review and Grading
+6.📊 Database Setup
+7.📓 Tables and Relations
 
-We've laid out four main tables:
+I've laid out four main tables:
 
-Customers: The heart of any business.
-Orders: The who, what, and when of orders.
-Courses: From appetizers to desserts, it's all here.
-Extras: Because who doesn't love options?
+- Customers: The heart of any business.
+- Orders: The who, what, and when of orders.
+- Courses: From appetizers to desserts, it's all here.
+- Extras: Because who doesn't love options?
 Don't miss the ER Diagram—it ties everything together.
 
 🐍 Python Code
 🌐 Database Connection
 
-We've got Python code that connects seamlessly to our MySQL database.
+Python code that connects seamlessly to our MySQL database.
 
 🛠️ Key Procedures
 
@@ -47,6 +47,7 @@ Sales Data: Sales trends over time.
 Popular Items: What's everyone ordering?
 Customer Locations: Where are these orders coming from?
 Dashboard: All your key metrics in one place.
+
 📝 Documentation
 Everything's documented:
 
