@@ -24,6 +24,9 @@ I've laid out four main tables:
 - Extras: Because who doesn't love options?
 Don't miss the ER Diagram—it ties everything together.
 
+![DatabaseDesign_final](https://github.com/axhoang/db-capstone-project/assets/117322132/46451b77-7e24-460e-95a1-693941519fd0)
+
+
 🐍 Python Code
 🌐 Database Connection
 
