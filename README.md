@@ -24,15 +24,20 @@ I've laid out four main tables:
 - Extras: Because who doesn't love options?
 Don't miss the ER Diagram—it ties everything together.
 
-THE SQL CODE
-
-![1 sql ide](https://github.com/axhoang/db-capstone-project/assets/117322132/6484d7e3-25d4-4162-ad5c-43006cd5be60)
-![2](https://github.com/axhoang/db-capstone-project/assets/117322132/6c0b0b62-486e-43ff-bad2-88434c647da1)
-![3](https://github.com/axhoang/db-capstone-project/assets/117322132/0f416fd0-c5e0-4c3d-9197-75b52ff3a222)
-
 
 FINAL DATABASE DESIGN
 ![DatabaseDesign_final](https://github.com/axhoang/db-capstone-project/assets/117322132/46451b77-7e24-460e-95a1-693941519fd0)
+
+
+
+
+
+![1 sql ide](https://github.com/axhoang/db-capstone-project/assets/117322132/6484d7e3-25d4-4162-ad5c-43006cd5be60)
+
+![2](https://github.com/axhoang/db-capstone-project/assets/117322132/6c0b0b62-486e-43ff-bad2-88434c647da1)
+
+![3](https://github.com/axhoang/db-capstone-project/assets/117322132/0f416fd0-c5e0-4c3d-9197-75b52ff3a222)
+
 
 
 
@@ -63,28 +68,35 @@ CancelBooking(): Remove an order (but let's hope it doesn't come to that 😢).
 
 We've got a straightforward guide to connecting Tableau with MySQL.
 
-📊 Reports
 
-Potential Business Questions:
-1.What are the monthly sales trends?
-  - Importance: Understanding sales trends over time allows the business to forecast future sales, manage inventory, and allocate resources more efficiently.
-  -  It can also help identify seasonal trends or the impact of marketing campaigns.
+## 📊 Potential Business Questions
 
-2.What are the top 5 products by sales?
-  - Importance: Knowing which products are bestsellers can guide inventory management, pricing strategies, and marketing focus.
-  - It can also inform decisions about which products might be bundled together or promoted more heavily.
+### 1. What are the monthly sales trends?
+  - **Importance**: 
+    - Understanding sales trends over time allows the business to forecast future sales, manage inventory, and allocate resources more efficiently.
+    - It can also help identify seasonal trends or the impact of marketing campaigns.
 
-3. Which cities have the highest and lowest sales?
-  -Importance: Geographical data on sales can help in market segmentation and targeted marketing.
-  -For cities with low sales, additional analysis can be done to understand why sales are lagging and what can be done to improve them.
+### 2. What are the top 5 products by sales?
+  - **Importance**: 
+    - Knowing which products are bestsellers can guide inventory management, pricing strategies, and marketing focus.
+    - It can also inform decisions about which products might be bundled together or promoted more heavily.
 
-4.What is the average delivery cost by city?
-  -Importance: Understanding delivery costs can significantly impact the bottom line. High delivery costs in certain cities may warrant a review of logistics and supply chain strategies.
-  -It can also influence pricing strategies and customer delivery charges.
+### 3. Which cities have the highest and lowest sales?
+  - **Importance**: 
+    - Geographical data on sales can help in market segmentation and targeted marketing.
+    - For cities with low sales, additional analysis can be done to understand why sales are lagging and what can be done to improve them.
 
-5.What is the share of total sales for each country?
-  -Importance: On a broader scale, knowing the sales distribution by country can help in making global business strategies.
-   -This can influence decisions on where to focus marketing efforts, where to expand, or even where to cut back.
+### 4. What is the average delivery cost by city?
+  - **Importance**: 
+    - Understanding delivery costs can significantly impact the bottom line.
+    - High delivery costs in certain cities may warrant a review of logistics and supply chain strategies.
+    - It can also influence pricing strategies and customer delivery charges.
+
+### 5. What is the share of total sales for each country?
+  - **Importance**: 
+    - On a broader scale, knowing the sales distribution by country can help in making global business strategies.
+    - This can influence decisions on where to focus marketing efforts, where to expand, or even where to cut back.
+
 
 
 ![Tableau](https://github.com/axhoang/db-capstone-project/assets/117322132/5ba67dcf-5dc2-4827-908f-4687f17a6a56)
